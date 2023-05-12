@@ -405,7 +405,7 @@ public class MainActivity extends AppCompatActivity {
                 if(h==0)
                     deg.setText("deg");
                 else
-                    deg.setText("rad ");
+                    deg.setText("rad");
                 update("");
             }
         });
